@@ -1,2 +1,2 @@
 # pipeliner
-Build, Test and Deploy
+Build, Test and Ship
